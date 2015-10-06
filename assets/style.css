@@ -1,0 +1,118 @@
+/**
+Created by Munsif Mulla on 30/09/2015.
+Styles for TODOList
+*/
+
+* {
+    padding:0;
+    margin:0;
+    font-size:16px;
+    font-family: "Calibri", sans-serif;
+}
+
+html,body {
+    height:100%;
+}
+
+/*Main CSS*/
+.mainWrapper{
+    width:700px;
+    margin:30px auto 0;
+    border:1px solid #dddddd;
+    padding-bottom: 15px;
+}
+.mainWrapper h2{
+    padding:15px;
+    background: #3b9bdd;
+    color:#ffffff;
+    font-size:28px;
+}
+.mainWrapper .form {
+    margin-top:15px;
+    text-align: center;
+    padding:0 15px;
+}
+.mainWrapper input{
+    border: 1px solid #dddddd;
+    font-size: 16px;
+    padding: 17px;
+    width: 570px;
+    display: inline-block;
+    vertical-align: top;
+}
+.mainWrapper button{
+    display: inline-block;
+    vertical-align: top;
+    border: none;
+    border-bottom: 2px solid #26638c;
+    background: #3b9bdd;
+    color: #ffffff;
+    font-size: 36px;
+    padding: 5px 19px;
+    cursor:pointer;
+
+    transition: all 500ms;
+}
+.mainWrapper button:hover{
+    background: #358ac6;
+}
+
+/*List Styles*/
+.mainWrapper ul {
+    list-style: none;
+    margin-top: 30px;
+    padding:0 15px;
+}
+.mainWrapper ul li{
+    padding:10px 0;
+    border-bottom:1px solid #dddddd;
+}
+.mainWrapper ul li span{
+    display: inline-block;
+    width:30px;
+    height:30px;
+    border:1px solid #dddddd;
+    vertical-align: top;
+    cursor: pointer;
+    color: #fff;
+    font-size: 21px;
+    text-align: center;
+    line-height: 1.4;
+}
+.mainWrapper ul li span i{
+    color: #fff;
+    margin: 3px auto;
+    display: block;
+    font-size: 21px;
+    text-align: center;
+    font-weight: bold;
+}
+.mainWrapper ul li span.done{
+    background: rgb(90, 197, 90);
+    border-bottom: 2px solid rgb(58, 140, 58);
+}
+.mainWrapper ul li span.delete{
+    background: rgb(253, 44, 44);
+    border-bottom: 2px solid rgb(174, 29, 29);
+}
+.mainWrapper ul li p{
+    display: inline-block;
+    width:575px;
+    margin:0 15px;
+    vertical-align: top;
+    color: #777777;
+    padding: 8px 0;
+}
+
+@media all and (min-width: 300px) and (max-width: 640px){
+    .mainWrapper{
+        width:100%;
+    }
+
+    .mainWrapper input{
+        width: 230px;
+    }
+    .mainWrapper ul li p {
+        width: 236px;
+    }
+}
