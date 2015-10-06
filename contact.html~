@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html dir=ltr>
+<head>
+<title> Home Page </title>
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="Home Page" Content="Home Page">
+<meta name="Home Page" Content="index1">
+<meta name="Home Page" Content="index2">
+<meta name="Home Page" Content="index3">
+
+<script type="text/javascript>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</script>
+
+<style type="text/css">
+.cool-border {
+width:600px;
+height:200px;
+padding:20px;
+border: 1em double ;
+-webkit-border-image: url(/pix/css/css3/properties/border-image-1.png) 30 30 round; /* Safari and Chrome */
+-moz-border-image: url(/pix/css/css3/properties/border-image-1.png) 30 30 round; /* Firefox */
+-ms-border-image: url(/pix/css/css3/properties/border-image-1.png) 30 30 round; /* Internet Explorer */
+-o-border-image: url(/pix/css/css3/properties/border-image-1.png) 30 30 round; /* Opera */
+border-image: url(/pix/css/css3/properties/border-image-1.png) 30 30 round; /* CSS3 */
+}
+</style>
+
+<style type="text/css">
+.cool {
+width:200px;
+height:150px;
+padding:20px;
+border: 1em double ;
+-webkit-border-image: url(/pix/css/css3/properties/border-image-1.png) 10 10 round; /* Safari and Chrome */
+-moz-border-image: url(/pix/css/css3/properties/border-image-1.png) 10 10 round; /* Firefox */
+-ms-border-image: url(/pix/css/css3/properties/border-image-1.png) 10 10 round; /* Internet Explorer */
+-o-border-image: url(/pix/css/css3/properties/border-image-1.png) 10 10 round; /* Opera */
+border-image: url(/pix/css/css3/properties/border-image-1.png) 10 10 round; /* CSS3 */
+}
+</style>
+
+
+<style type="text/css">
+		.h1{
+text-shadow:5px 5px 5px #000000
+}
+
+</style>
+
+<style type="text/css">
+.mytable th,
+.mytable tr,
+.mytable td{
+border:2px solid
+#000000;
+}
+
+</style>
+
+<style type="text/css">
+div.color {
+  width:600px;
+  border-right-width:thick;
+  border-right-style:solid;
+  border-right-color:#ff9900;
+  }
+</style>
+
+<style type="text/css">
+div.color1 {
+  width:500px;
+  border-left-width:thick;
+  border-left-style:solid;
+  border-left-color:#ff9900;
+  }
+</style>
+
+
+<style type="text/css">
+.background {
+width:625px;
+height:1000px;
+padding:0px;
+background-color: lightblue;
+background-image: url(blue-wood.jpg);
+border: 20px solid rgba(0,0,0,0.0);
+/* Safari and Chrome */
+-webkit-background-size: contain;
+
+/* Firefox */
+-moz-background-size: contain;
+
+/* Internet Explorer */
+-ms-background-size: contain;
+
+/* Opera */
+-o-background-size: contain;
+
+/* CSS3 */
+background-size: contain;
+}
+</style>
+
+
+
+<style type="text/css">
+.back {
+width:1025px;
+height:100px;
+padding:0px;
+background-color: lightblue;
+background-image: url(blue-wood.jpg);
+border: 20px solid rgba(0,0,0,0.5);
+/* Safari and Chrome */
+-webkit-background-size: contain;
+
+/* Firefox */
+-moz-background-size: contain;
+
+/* Internet Explorer */
+-ms-background-size: contain;
+
+/* Opera */
+-o-background-size: contain;
+
+/* CSS3 */
+background-size: contain;
+}
+</style>
+
+
+
+
+
+<style type="text/css">
+.back1 {
+width:100px;
+height:800px;
+padding:0px;
+background-color: lightblue;
+background-image: url(blue-wood.jpg);
+border: 20px solid rgba(0,0,0,0.5);
+/* Safari and Chrome */
+-webkit-background-size: contain;
+
+/* Firefox */
+-moz-background-size: contain;
+
+/* Internet Explorer */
+-ms-background-size: contain;
+
+/* Opera */
+-o-background-size: contain;
+
+/* CSS3 */
+background-size: contain;
+}
+</style>
+
+
+
+
+
+
+<style type="text/css">
+.back3 {
+width:1000px;
+height:20px;
+padding:0px;
+background-color: lightblue;
+background-image: url(blue-wood.jpg);
+border: 20px solid rgba(0,0,0,0.5);
+/* Safari and Chrome */
+-webkit-background-size: contain;
+
+/* Firefox */
+-moz-background-size: contain;
+
+/* Internet Explorer */
+-ms-background-size: contain;
+
+/* Opera */
+-o-background-size: contain;
+
+/* CSS3 */
+background-size: contain;
+}
+</style>
+
+</head>
+<body>
+
+	<table bgcolor="#000000" cellspacing=3>
+
+  	<table width="100%" border="5">
+	
+    	<table class="mytable">
+	
+    <tr>
+
+      <td colspan="3" bgcolor="#000000">
+
+		<div class="back">
+
+            <font face="times new roman" size="5" color="ffffff">
+
+	             <dl>
+			<dt><b>AJWASYS.com</b></dt>
+	    </font>
+
+	    
+
+		<font face="TIMES NEW ROMAN" size="2" color="ffffff">
+		
+		<dd>All Java Web Application System's</dd>
+ 
+	        </font> 
+	
+		
+
+		<font face="comic sans ms" size="2" color="ffffff">
+
+		<MARQUEE><dd> Complete Programming Solutions-All Java Web Applications system
+				"To prepare globally competent IT professional & IT Services"
+		</dd></MARQUEE>
+			
+		</dl>
+	    
+		</font>
+
+
+<div id="Menu" align="right">
+<a href="index.html">Home </a> |
+<a href="about_us.html">About Us </a> |
+<a href="courses.html">Courses </a> |
+<a href="contact.html">Contact Us </a>
+</div>
+</div>
+</td>
+</tr>
+     <tr valign="top">
+      <td bgcolor="#ffffff" width="100">
+
+
+	
+	<img src="sum.jpg" alt="Ajwa" width="400" height="1050" />
+
+	</td>
+
+
+		<td bgcolor="#000000" width="600" height="500">
+
+		<div class="background">
+
+			<div class="color">
+		 <font face="TIMES NEW ROMAN" size="5" color="ffffff">
+
+             <b> CONTACT US ON : </b>
+
+             </font>
+
+		</br> 
+    
+	    <font face="comic sans ms" size="3" color="ffffff">
+
+		
+			
+			<div>			
+
+			PhNo : 8904693959
+
+			</div>
+
+			<div>
+			Email Id : ajwasystems@gmail.com
+			
+			</div>
+
+			<div>
+				
+			Website : www.ajwasys.com
+
+			</div><br>
+
+			Address :
+
+
+		#14th, Sanman colony, Opp Sujnana National Public School,
+	Behind New Bus Stand, Gokul road, Hubballi-30
+	Office No : <b>8904693959</b>
+
+	</font>
+
+</div>
+		<br><br><br>
+		<div class="color1">
+		
+		<p style="text-align:right;">
+		<font face="times new roman" size="5" color="ffffff">
+
+			For Online registration
+		
+		</font>
+
+   		<form>
+
+           	<font face="verdana" size="2" color="ffffff">
+
+		<b>
+
+			First name :  <input type="text" name="first_name"/>
+
+		<br><br>
+
+			Last name :   <input type="text" name="last-name"/>
+
+		<br><br>
+
+			Occupation :   <input type="text" name="Occupation"/>
+
+		<br><br>
+
+			Qualification : <input type="text" name="Qualification"/>
+
+
+
+			<br><br>
+		Description :
+
+			<br><br><textarea rows="5" cols="20" name="description">
+
+
+		
+			</textarea>
+
+			<br><br><input type="button" name="OK" value="submite"/>
+
+		</font>
+
+		</form>
+<font face="times new roman" size="3" >
+
+			<a href="mailto:ajwasystems@gmail.com"> Send Your Feedback </a>
+
+
+			</font>
+
+</div>
+</form>
+</font>
+</p>
+
+
+</div>
+</td>
+
+
+<tr>
+
+	<td colspan="3" bgcolor="000000">
+
+	<div class="back3">
+
+	<font face="times new roman" size="3" color="ffffff">
+
+	<right>
+
+		copyright@2015 ajwasys.info
+
+	</right>
+
+	</font>
+
+	</div>
+
+	</td>
+
+	</tr>
+</table>
+</body>
+</html>
